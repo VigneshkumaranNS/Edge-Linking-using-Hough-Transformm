@@ -22,11 +22,9 @@ Using Canny operator from cv2,detect the edges of the image.
 
 Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
 ## Program:
-```
-NAME: ANISH RAJ P
-REG: 212222230010
-```
 ```PYTHON
+NAME: VIGNESH KUMARAN N S
+REG: 212222230171
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
